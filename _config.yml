@@ -15,6 +15,13 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
+  DS Experiments:
+    - Daily vs Intraday prices:
+    - Do technical indicators work?:
+    - Predicting stock prices with FRED:
+  Tech Demos:
+    - Demo1
+    - Demo2
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
