@@ -9,7 +9,7 @@
 title: Stefan Angersbach
 
 # Your name to show in the footer
-author: Some Person
+author: Stefan Angersbach
 
 # --- List of links in the navigation bar --- #
 
@@ -72,7 +72,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+#rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 
@@ -85,7 +85,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "stefanangersbach.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -97,7 +97,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # Add a search button to the navbar
-post_search: true
+post_search: false
 
 # The keywords to associate with your website, for SEO purposes
 #keywords: "my,list,of,keywords"
