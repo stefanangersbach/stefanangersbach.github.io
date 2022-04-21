@@ -20,12 +20,9 @@ navbar-links:
     - Do technical indicators work?:
     - Predicting stock prices with FRED:
   Tech Demos:
-    - Demo1
-    - Demo2
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Demo1:
+    - Demo2:
+
 
 # --- Logo --- #
 
